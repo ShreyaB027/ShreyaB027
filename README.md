@@ -1,185 +1,188 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=220&section=header&text=Shreya%20Bose&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineering%20•%20AI/ML%20•%20Systems%20Design&descAlignY=58&descSize=18"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+There+%F0%9F%91%8B+I'm+Shreya+Bose;Backend+Engineering+%7C+AI%2FML+%7C+Systems+Design;Building+Scalable+Real-Time+Systems;Passionate+About+Distributed+Architectures" alt="Typing SVG" />
+✨ Hey, I'm Shreya Bose
 </h1>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyaB027&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<h3 align="center">
+Backend Engineering • Systems Design • Machine Learning
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyaB027&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ShreyaB027?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/ShreyaB027?style=for-the-badge&color=cyan" />
+🎓 B.Tech CSE @ KIIT Bhubaneswar <br>
+💻 Focused on Backend Engineering, AI/ML & Real-Time Systems <br>
+🚀 Exploring scalable infrastructure and intelligent software systems
 </p>
 
 ---
 
-# 💫 About Me
-
-```yaml
-Name: Shreya Bose
-Role: B.Tech CSE Student
-Focus:
-  - Backend Engineering
-  - AI/ML Applications
-  - Distributed Systems
-  - Real-Time Architectures
-  - Automation Systems
-
-Currently Learning:
-  - System Design
-  - Scalable Backend Systems
-  - Machine Learning Pipelines
-  - Cloud Infrastructure
-
-Philosophy:
-  "Build systems that scale elegantly."
-```
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems+🚀;Turning+Ideas+Into+Production+⚡;Distributed+Systems+%26+Real-Time+Architectures+⚙️;Engineering+Reliable+Software+🌐" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-# 🧠 Who Am I
+# 🧠 Who Am I?
 
 ```java
 class ShreyaBose {
 
     String role = "Backend Engineer & AI/ML Enthusiast";
 
-    String[] skills = {
+    String[] languages = {
         "Java",
         "Python",
-        "Java",
-        "FastAPI",
-        "Flask",
-        "MySQL",
-        "Git",
-        "System Design"
+        "JavaScript"
     };
 
-    String currentFocus =
-        "Building scalable real-time backend systems";
+    String[] frameworks = {
+        "FastAPI",
+        "Flask"
+    };
 
-    boolean lovesDistributedSystems = true;
+    String[] interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "Automation",
+        "AI/ML"
+    };
 
-    void build() {
-        System.out.println(
-            "Creating impactful engineering systems 🚀"
-        );
-    }
+    String motto =
+        "Build systems that scale elegantly. ⚙️";
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,fastapi,flask,mysql,git,github,vscode,linux&theme=dark" />
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
-## 🔹 Real-Time Emergency Dispatch System
-> Intelligent emergency response backend system with responder allocation logic, timeout handling, and scalable dispatch architecture.
+<br>
 
-### Tech:
-`FastAPI` `Python` `MySQL` `System Design`
-
----
-
-## 🔹 AI/ML Automation Projects
-> Machine learning workflows and intelligent automation systems focused on practical real-world applications.
-
-### Tech:
-`Python` `ML` `Automation`
-
----
-
-## 🔹 Backend API Systems
-> Scalable backend architectures with optimized APIs, authentication flows, and database integration.
-
-### Tech:
-`FastAPI` `Flask` `MySQL`
+| Project | Description |
+|---|---|
+| **🚑 Real-Time Emergency Dispatch System** | Intelligent emergency response platform with responder allocation logic, timeout handling, and scalable backend architecture. |
+| **🤖 AI/ML Automation Systems** | Intelligent automation workflows and machine learning driven applications focused on real-world use cases. |
+| **⚡ Backend API Systems** | Production-grade APIs with optimized authentication, database integration, and scalable backend architecture. |
 
 ---
 
 # 📊 GitHub Analytics
 
+<br>
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShreyaB027&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAB1BF&sideLabels=AAB1BF" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyaB027&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaB027&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaB027&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyaB027&theme=tokyonight" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyaB027&theme=github_dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyaB027&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyaB027&theme=github_dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyaB027&theme=github_dark" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ShreyaB027?label=Followers&style=for-the-badge&color=58A6FF" />
+
+  <img src="https://img.shields.io/github/stars/ShreyaB027?style=for-the-badge&color=58A6FF" />
+
+  <img src="https://img.shields.io/badge/Profile-Active-58A6FF?style=for-the-badge" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 GitHub Achievements
+
+<br>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShreyaB027&theme=tokyonight&hide_border=true&border_radius=15" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyaB027&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# ⚙️ Tech Stack & Tools
+
+<br>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaB027&theme=tokyo-night&hide_border=true&radius=16" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,fastapi,flask,mysql,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🚧 Current Focus
+
+```text
+⚡ Scalable Backend Architectures
+⚡ Distributed Systems Design
+⚡ AI/ML Engineering
+⚡ Real-Time Processing Systems
+⚡ Production-Grade APIs
+```
+
+---
+
+# ⚙️ Engineering Philosophy
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ShreyaB027/ShreyaB027/output/github-contribution-grid-snake-dark.svg" />
+```text
+Scalable systems are built through clean architecture,
+reliable abstractions, and continuous iteration.
+```
 
 </p>
-
----
-
-# 🎯 Current Focus
-
-- Building scalable backend architectures
-- Learning distributed systems design
-- Exploring AI/ML engineering
-- Creating production-grade APIs
-- Improving problem-solving skills
-
----
-
-# 🏆 Achievements
-
-- 🚀 Building advanced backend projects
-- 💡 Exploring scalable real-time systems
-- 📚 Consistently learning system design
-- ⚡ Active open-source learner
 
 ---
 
 # 🌐 Connect With Me
 
+<br>
+
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/shreya-bose27/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shreyabose027@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/ShreyaB027">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 </p>
@@ -189,3 +192,5 @@ class ShreyaBose {
 <h3 align="center">
 ⚡ Engineering Scalable Systems • Building Intelligent Software ⚡
 </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
