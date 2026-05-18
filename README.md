@@ -46,6 +46,7 @@ class ShreyaBose {
     String[] skills = {
         "Java",
         "Python",
+        "Java",
         "FastAPI",
         "Flask",
         "MySQL",
