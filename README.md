@@ -27,7 +27,7 @@ Backend Engineering • Real-Time Systems • AI/ML
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems+🚀;Designing+Real-Time+Architectures+⚡;Engineering+Reliable+Software+🌐;Turning+Ideas+Into+Production+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Clean+Code+•+Better+Systems+•+Smarter+Software;Creating+Reliable+Real-Time+Systems+🌐" />
 </p>
 
 ---
@@ -43,20 +43,23 @@ class ShreyaBose {
     String[] languages = {
         "Java",
         "Python",
+        "JavaScript",
         "C"
-        "JavaScript"
     };
 
     String[] frameworks = {
         "FastAPI",
-        "Flask"
+        "Flask",
+        "UiPath",
+        "RPA"
     };
 
     String[] interests = {
         "Distributed Systems",
         "Backend Engineering",
         "Automation",
-        "Machine Learning"
+        "Machine Learning",
+        "Real-Time Systems"
     };
 
     String currentFocus =
@@ -69,11 +72,19 @@ class ShreyaBose {
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Stack & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,fastapi,flask,mysql,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,fastapi,flask,mysql,git,github,vscode,linux&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RPA-58A6FF?style=for-the-badge&logo=automationanywhere&logoColor=white" />
+
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
 
 </p>
 
@@ -84,7 +95,7 @@ class ShreyaBose {
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🚑 Real-Time Emergency Dispatch System | Intelligent emergency response platform with responder allocation logic & scalable backend workflows | FastAPI, MySQL, Python |
-| 🤖 AI/ML Automation Systems | Intelligent automation pipelines and machine learning powered systems | Python, ML |
+| 🤖 AI/ML Automation Systems | Intelligent automation pipelines and machine learning powered systems | Python, ML, RPA |
 | ⚡ Backend API Systems | Production-grade APIs with optimized authentication & database integration | Flask, FastAPI, MySQL |
 
 ---
@@ -149,6 +160,7 @@ class ShreyaBose {
 ⚡ AI/ML Engineering
 ⚡ Real-Time Processing Systems
 ⚡ Production-Grade APIs
+⚡ Intelligent Automation Workflows
 ```
 
 ---
