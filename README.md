@@ -43,6 +43,7 @@ class ShreyaBose {
     String[] languages = {
         "Java",
         "Python",
+        "C"
         "JavaScript"
     };
 
