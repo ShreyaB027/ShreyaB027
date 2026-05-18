@@ -76,7 +76,7 @@ class ShreyaBose {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,fastapi,flask,mysql,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,fastapi,flask,mysql,git,github,vscode,html,css,linux&theme=dark" />
 
 </p>
 
