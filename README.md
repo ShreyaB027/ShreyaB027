@@ -132,25 +132,7 @@ class ShreyaBose {
 
 ---
 
-# 🕹️ Weekly Development Breakdown
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ShreyaB027/ShreyaB027/output/pacman-contribution-graph-dark.svg" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Backend%20Engineering-58A6FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/System%20Design-1F6FEB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/AI%2FML-58A6FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Real--Time%20Systems-1F6FEB?style=for-the-badge" />
-
-</p>
 
 ---
 
