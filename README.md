@@ -132,7 +132,13 @@ class ShreyaBose {
 
 ---
 
-# ⏱ Weekly Development Breakdown
+# 🕹️ Weekly Development Breakdown
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ShreyaB027/ShreyaB027/output/pacman-contribution-graph-dark.svg" />
+
+</p>
 
 <p align="center">
 
@@ -143,31 +149,6 @@ class ShreyaBose {
 <img src="https://img.shields.io/badge/AI%2FML-58A6FF?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Real--Time%20Systems-1F6FEB?style=for-the-badge" />
-
-</p>
-
-<br>
-
-<p align="center">
-
-```text
-Backend Engineering      ██████████████░░░  85%
-System Design            ████████████░░░░  75%
-AI/ML Engineering        ██████████░░░░░░  65%
-Real-Time Systems        ███████████░░░░░  70%
-Automation & RPA         █████████░░░░░░░  60%
-```
-
-</p>
-
-<br>
-
-<p align="center">
-
-⚡ Writing scalable backend services <br>
-⚡ Designing distributed architectures <br>
-⚡ Exploring intelligent automation workflows <br>
-⚡ Building production-grade APIs
 
 </p>
 
